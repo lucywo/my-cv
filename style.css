@@ -1,0 +1,41 @@
+body {
+    font-family: system-ui;
+    background: honeydew;
+    color:black;
+    text-align: center;
+  }
+  
+  h1::after{
+    content: '🤓';
+  }
+   
+  
+  header {
+    padding: 2rem;
+  }
+  
+  html{
+    front-size: 20px;
+  }
+  
+  h2 {
+    front-size: 2.5rem;
+    background-color:salmon;
+    padding: .5em 0;
+  }
+  
+  
+  html {
+    front-size: 32px;
+  }
+  
+  main {
+    width: 100vmax;
+  } 
+  h3 {
+    front-size: 2.5rem;
+    background-color:plum;
+    padding: .5em 0;
+   
+    
+  }
